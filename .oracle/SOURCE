@@ -1,0 +1,4 @@
+upstream: https://github.com/mimblewimble/grin
+commit: dbaff34f7751ee23316fbbfe5806b47c546776ca
+license: Apache-2.0
+Unmodified snapshot except that .github/workflows was emptied.
